@@ -1,3 +1,0 @@
-# hello_mom
-Hello mom
-This a projekt to learn how to git...
